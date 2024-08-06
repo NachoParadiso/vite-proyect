@@ -1,0 +1,11 @@
+.barra {
+    position: fixed;
+    display: flex;
+    top: 0;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 20px;
+
+}
